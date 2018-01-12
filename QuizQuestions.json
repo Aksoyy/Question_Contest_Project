@@ -1,0 +1,313 @@
+﻿[
+  // --- TEKNOLOJİ - EASY ----------------------------------------------------------------------------------------------------
+  {
+    "id": 1,
+    "question": "1 Gigabyte kaç Megabyte dır?",
+    "answers": [ "100", "1000", "124", "1024" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 2,
+    "question": " Bilgisayar bellek birimlerinden 1 byte, kaç bit’ ten oluşur?",
+    "answers": [ "2", "4", "8", "16" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 3,
+    "question": "Aşağıdakilerden hangisi Nesne yönelimli bir programlama dili değildir?",
+    "answers": [ "C", "Java", "C++", "Python" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 4,
+    "question": "Kaynak programı makine diline çeviren programa ne ad verilir?",
+    "answers": [ "Derleyici", "Yorumlayıcı", "Uygulama", "Break Point" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 5,
+    "question": "Aşağıdakilerden hangisi sayısal bir veri tipi değildir?",
+    "answers": [ "int", "double", "float", "string" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+
+  // --- Teknoloji-Normal ----------------------------------------------------------------------------------------------------
+  {
+    "id": 6,
+    "question": "1024 BYTE aşağıdakilerden hangisi eşit değildir?",
+    "answers": [ "1024 Karakter", "1024 Bit", "1 Kilobyte", " 8192 Bit" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 7,
+    "question": "Aşağıdakilerden hangisi bellek ölçü birimidir?",
+    "answers": [ "Pixel", "MB", "Rpm", " Dpi" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 8,
+    "question": "Kâğıtta bulunan bilgiyi bilgisayara aktarmak için kullanılan cihaza ne ad verilir?",
+    "answers": [ "Scanner(Tarayıcı)", "Plotter(Çizici)", "Printer(Yazıcı)", "Monitör(Ekran)" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 9,
+    "question": " Aşağıdakilerden hangisi monitörle ilgili değildir?",
+    "answers": [ "inch", "Pixel", "MByte", "Flat" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 10,
+    "question": " Aşağıdakilerden hangisinde elektrik kesildiği zaman bilgiler silinir?",
+    "answers": [ "Ram", "Prom", "Eprom", "Rom" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  // --- Teknoloji-HARD ----------------------------------------------------------------------------------------------------
+  {
+    "id": 11,
+    "question": "Klavyedeki tuşların üzerindeki 3.karakterin yazılmasını sağlayan tuş hangisidir?",
+    "answers": [ "Shift", "Altgr(Sağ Alt)", " Ctrl", "Caps Lock" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 2,
+    "played": false
+  },
+  {
+    "id": 12,
+    "question": " Kullanıcının müdahale edemediği, bellek türü hangisidir?",
+    "answers": [ "Rom", "Ram", "Sd Ram", "Hiçbiri" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 2,
+    "played": false
+  },
+  {
+    "id": 13,
+    "question": "Bilgisayar tarihinin ilk virüsü hangisidir?",
+    "answers": [ "Worm", "Trojan", "Brain", "Norton" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 2,
+    "played": false
+  },
+  {
+    "id": 14,
+    "question": "İnternet ilk olarka hangi amaçla kullanılmıştır",
+    "answers": [ "Matematiksel hesaplama", "Eğlence", "İletişim", "Askeri amaç" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 2,
+    "played": false
+  },
+  {
+    "id": 15,
+    "question": "Hangisi veri tabanı sistemi değildir?",
+    "answers": [ "MSSQL", "MYSQL", "Oracle", "Java" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 2,
+    "played": false
+  },
+
+//*****--------TARİH-----KOLAY----------------*********
+  {
+    "id": 16,
+    "question": "Osmanlı imparatorluğundaki ilk padişah kimdir?",
+    "answers": [ "I.Osman", "II.Selim", "I.Selim", "III.Selim" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 17,
+    "question": "Osmanlı İmparatorluğunda kaç tane padişah başa geçmiştir?",
+    "answers": [ "30", "35", "28", "36" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 18,
+    "question": "Osmanlı İmparatorluğundaki son padişah kimdir?",
+    "answers": [ "I.Osman", "III.Selim", "Sultan Vahdettin", "Yavuz Sultan Selim" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  //----------TARİH-------ORTA--------***
+  {
+    "id": 19,
+    "question": "Osmanlının kurucusu Osman Gazinin babasının adı nedir? ",
+    "answers": [ "II.Selim", "Yavuz Sultan Selim", "Sultan Vahdettin", "Ertuğrul Gazi" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 20,
+    "question": "Fatih Sultan Mehmet’in oğlu, Yavuz Sultan Selim’in babası olan ve kardeşi 
+                Cem Sultan ile mücadele ederek tahta geçen Osmanlı padişahı kimdir?",
+    "answers": [ "I.Selim", "II.Selim", "III.Selim", "II.Beyazıt" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 21,
+    "question": "Minare ve bayrak direklerinin tepesindeki hilale ne denir? ?",
+    "answers": [ "Alem", "Sancak", "Yaren", "Göksu" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  //-------------TARİH--****** ZOR *******----------***
+  {
+    "id": 22,
+    "question": "Bayrak, sancak taşıyan kimseye (bayraktar, sancaktara) Osmanlı da ne ad verilir? ",
+    "answers": [ "Yeniçeri", "Alemdar", "Ocakbaşı", "Subaşı" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 2,
+    "played": false
+  },
+  {
+    "id": 23,
+    "question": "Osmanlılarda meydana gelen dava ve uyuşmazlıkları şeriat esaslarına göre 
+                çözen ve karar veren hakime ne ad verilir?",
+    "answers": [ "Hakim", "Savcı", "Vali", "Kadı" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 2,
+    "played": false
+  },
+  {
+    "id": 24,
+    "question": "Sultan Ahmet Camisinin mimarı kimdir?",
+    "answers": [ "Mimar Sinan", "Hayati Tabanlıoğlu", "Sedefkar Mehmet Ağa", "Mimar Kemaleddin" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 2,
+    "played": false
+  },
+  //***************SPOR------------KOLAY----***
+  {
+    "id": 25,
+    "question": "Uefa kupası kazanan ilk Türk takımı kimdir?",
+    "answers": [ "Galatasaray", "Trabzonspor", "Fenerbahçe", "Beşiktaş" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 26,
+    "question": "Euroleagea'i kazanan ilk Türk takımı kimdir?",
+    "answers": [ "Anadolu Efes", "Banvit", "Trabzonspor", "Fenerbahçe" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 27,
+    "question": "Trabzonspor kaç yılında kurulmuştur?",
+    "answers": [ "1907", "1905", "1903", "1967" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+
+ //***************SPOR------------MEDİUM----***
+  {
+    "id": 28,
+    "question": "Ofsayt kuralı genelde kime sorulmaktadır?",
+    "answers": [ "Çocuklara", "Yakınlara", "Bayanlara", "Gençlere" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 29,
+    "question": "GFB hangi takımla ilgilidir?",
+    "answers": [ "Trabzonspor", "Bursaspor", "Beşiktaş", "Fenerbahçe" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 30,
+    "question": "Timsahlar kimle ilgilidir?",
+    "answers": [ "Beşiktaş", "Trabzonspor", "Galatasaray", "Bursaspor" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+   //***************SPOR------------HARD----***
+  {
+    "id": 31,
+    "question": "Hamsi hangi takımla ilgilidir?",
+    "answers": [ "Fenerbahçe", "Trabzonspor", "Galatasaray", "Konyaspor" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 2,
+    "played": false
+  },
+  {
+    "id": 32,
+    "question": "Türkiye'de 4 büyükler dışında şampiyon olan takımın hangisidir?",
+    "answers": [ "Konyaspor", "Adanaspor", "Adanademirspor", "Bursaspor" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 2,
+    "played": false
+  },
+  {
+    "id": 33,
+    "question": "Şuanda Türkiye'de en fazla kupası bulunan takım hangisidir?",
+    "answers": [ "Trabzonspor", "Bursaspor", "Fenerbahçe", "Galatasaray" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 2,
+    "played": false
+	}
+ ]

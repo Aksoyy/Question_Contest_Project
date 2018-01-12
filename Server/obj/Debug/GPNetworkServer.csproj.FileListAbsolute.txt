@@ -1,0 +1,16 @@
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\Server\bin\Debug\Server.dll
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\Server\bin\Debug\Server.pdb
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\Server\bin\Debug\Message.dll
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\Server\bin\Debug\Message.pdb
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\Server\obj\Debug\GPNetworkServer.csprojResolveAssemblyReference.cache
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\Server\obj\Debug\GPNetworkServer.csproj.CoreCompileInputs.cache
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\Server\obj\Debug\Server.dll
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\Server\obj\Debug\Server.pdb
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\Server\bin\Debug\Server.dll
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\Server\bin\Debug\Server.pdb
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\Server\bin\Debug\Message.dll
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\Server\bin\Debug\Message.pdb
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\Server\obj\Debug\GPNetworkServer.csprojResolveAssemblyReference.cache
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\Server\obj\Debug\GPNetworkServer.csproj.CoreCompileInputs.cache
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\Server\obj\Debug\Server.dll
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\Server\obj\Debug\Server.pdb

@@ -1,0 +1,79 @@
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\bin\Debug\QuizGame.exe.config
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\bin\Debug\QuizGame.exe
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\bin\Debug\QuizGame.pdb
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\bin\Debug\Newtonsoft.Json.dll
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\bin\Debug\Newtonsoft.Json.xml
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.csprojResolveAssemblyReference.cache
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.FrmInfo.resources
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.FrmPlay.resources
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.FrmQuizGame.resources
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.Properties.Resources.resources
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.csproj.GenerateResource.Cache
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.exe
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.pdb
+D:\DOWNLOAD\Quiz-Game-master\Quiz-Game-master\obj\Debug\QuizGame.Form1.resources
+C:\Users\ALPEREN\Desktop\Quiz by Afra\bin\Debug\QuizGame.exe.config
+C:\Users\ALPEREN\Desktop\Quiz by Afra\bin\Debug\QuizGame.exe
+C:\Users\ALPEREN\Desktop\Quiz by Afra\bin\Debug\QuizGame.pdb
+C:\Users\ALPEREN\Desktop\Quiz by Afra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALPEREN\Desktop\Quiz by Afra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.csprojResolveAssemblyReference.cache
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.Form1.resources
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.FrmInfo.resources
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.FrmPlay.resources
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.FrmQuizGame.resources
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.Properties.Resources.resources
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.csproj.GenerateResource.Cache
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.exe
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.pdb
+C:\Users\ALPEREN\Desktop\Quiz by Afra\obj\Debug\QuizGame.Form2.resources
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\QuizGame.exe.config
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\QuizGame.exe
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\QuizGame.pdb
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.csprojResolveAssemblyReference.cache
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.Form1.resources
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.Form2.resources
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.FrmInfo.resources
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.FrmPlay.resources
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.FrmQuizGame.resources
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.Properties.Resources.resources
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.csproj.GenerateResource.Cache
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.exe
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.pdb
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.Form3.resources
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\obj\Debug\QuizGame.PuanTablosu.resources
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\Client.dll
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\Message.dll
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\Server.dll
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\Client.pdb
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\Message.pdb
+C:\Users\Nihal\Desktop\Quiz-by-Afra2\Quiz-by-Afra2\Quiz by Afra\bin\Debug\Server.pdb
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\QuizGame.exe.config
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\QuizGame.exe
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\QuizGame.pdb
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\Client.dll
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\Message.dll
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\Server.dll
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\Client.pdb
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\Message.pdb
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\Server.pdb
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.csprojResolveAssemblyReference.cache
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.Form1.resources
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.Form2.resources
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.Form3.resources
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.FrmInfo.resources
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.FrmPlay.resources
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.FrmQuizGame.resources
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.Properties.Resources.resources
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.PuanTablosu.resources
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.csproj.GenerateResource.Cache
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.exe
+C:\Users\Nihal\Desktop\Quiz by Afra Team\Quiz by Afra\obj\Debug\QuizGame.pdb
